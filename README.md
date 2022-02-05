@@ -98,7 +98,7 @@ BOT_TOKEN=55838383:yourtbottokenhere
 BIN_CHANNEL=-100
 PORT=8080
 FQDN=yourserverip
-HAS_SSL=False
+HAS_SSL=True
 ```
 
 ### Mandatory Vars
